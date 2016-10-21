@@ -1,0 +1,17 @@
+/* Đổi màu thanh cuộn trình duyệt */
+::-webkit-scrollbar {
+    background: #E4DDDF;
+    width: 11px;
+    height: 11px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #205B7A;
+    border-radius: 0px;
+}
+.navbar-nav li a{
+ 
+}
+.navbar-brand i{
+  font-weight: bold;
+}
